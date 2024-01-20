@@ -1,3 +1,20 @@
 # ERC4337 Chat Application
 
-...
+`git clone --recurse-submodules https://github.com/tomw1808/erc4337-chatter-application.git`
+
+## Contracts
+
+Writte in Solidity with Foundry.
+
+```
+cd chatter-contracts
+forge build
+````
+
+## Chatter ERC4337 Application
+
+```
+cd chatter-app
+npm install
+npm run dev
+```
