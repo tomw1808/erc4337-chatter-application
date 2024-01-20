@@ -1,0 +1,6 @@
+[submodule "chatter-app"]
+	path = chatter-app
+	url = https://github.com/tomw1808/erc4337-chatter-nextjs-app.git
+[submodule "chatter-contracts"]
+	path = chatter-contracts
+	url = https://github.com/tomw1808/erc4337-chatter-contracts.git
