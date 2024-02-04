@@ -4,3 +4,6 @@
 [submodule "chatter-contracts"]
 	path = chatter-contracts
 	url = https://github.com/tomw1808/erc4337-chatter-contracts.git
+[submodule "erc4337-candide"]
+	path = erc4337-candide
+	url = https://github.com/tomw1808/erc4337-candide.git
