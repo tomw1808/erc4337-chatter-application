@@ -1,6 +1,6 @@
 # ERC4337 Application Demo
 
-This repository serves as a [living demonstration](https://erc4337-chatter-nextjs-app.vercel.app/) of the ERC4337 standard for account abstraction in Ethereum. Account abstraction is a paradigm shift in user account management, offering enhanced user experiences by abstracting away the complexities typically associated with Ethereum accounts.
+This repository serves as a [living demonstration](https://erc4337-candide.vercel.app/) of the ERC4337 standard for account abstraction in Ethereum. Account abstraction is a paradigm shift in user account management, offering enhanced user experiences by abstracting away the complexities typically associated with Ethereum accounts.
 
 This is the Demo-Repository for the [Video Walkthrough](https://www.youtube.com/watch?v=v_V4Wqcn7vE):
 
@@ -92,6 +92,7 @@ To learn more about ERC4337 Account Abstraction, take a look at the following re
 - [Eth Infinitism Repo](https://github.com/eth-infinitism/account-abstraction/tree/develop) - The core team around erc4337 developing the entrypoint
 - [Abstractionkit Github Repo](https://github.com/candidelabs/abstractionkit/tree/main) - The official repo for Candide Abstractionkit
 - [Stackup/Alchemy/Candide Video Walkthrough](https://youtu.be/v_V4Wqcn7vE) - My lengthy end-2-end video walkthrough of the Stackup/Candide/Alchemy Walkthrough
+- [ERC4337 App using Candide](https://erc4337-candide.vercel.app/)
 - [Chatter ERC4337 App using Stackup/Alchemy/Candide](https://erc4337-chatter-nextjs-app.vercel.app/)
 - [Ethereum-Blockchain-Developer](https://ethereum-blockchain-developer.com) - Learn Solidity and Ethereum Development from me 🤗
 
