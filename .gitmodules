@@ -1,9 +1,12 @@
 [submodule "chatter-app"]
 	path = chatter-app
 	url = https://github.com/tomw1808/erc4337-chatter-nextjs-app.git
+	branch = main
 [submodule "chatter-contracts"]
 	path = chatter-contracts
 	url = https://github.com/tomw1808/erc4337-chatter-contracts.git
+	branch = main
 [submodule "erc4337-candide"]
 	path = erc4337-candide
 	url = https://github.com/tomw1808/erc4337-candide.git
+	branch = main

@@ -20,13 +20,13 @@ The implementation of account abstraction can have a substantial impact on the m
 ## Repository Contents
 
 ### /chatter-app
-A fully-featured Next.js application utilizing RainbowKit, showcasing the integration with StackUp, Candide, and Alchemy for account abstraction. This subproject focuses on demonstrating how on-chain wallets, such as those provided by StackUp and Alchemy, can be managed in a simplified chat application context. Additionally, Candide's implementation leverages the Safe wallet as a representation of how account abstraction can function within user-friendly applications. [Demo here](https://erc4337-chatter-nextjs-app.vercel.app/)
+A fully-featured Next.js application utilizing RainbowKit, showcasing the integration with StackUp, Candide, and Alchemy for account abstraction. This subproject focuses on demonstrating how on-chain wallets, such as those provided by StackUp and Alchemy, can be managed in a simplified chat application context. Additionally, Candide's implementation leverages the Safe wallet as a representation of how account abstraction can function within user-friendly applications. [Demo here](https://erc4337-chatter-nextjs-app.vercel.app/) [Repo here](https://github.com/tomw1808/erc4337-chatter-nextjs-app/)
 
 ### /erc4337-candide
-A trim-down Next.js application that presents an updated ERC4337 example utilizing the Candide framework with SafeL2 version 1.4.1. This submodule makes dedicated use of the updated Candide framework. [Demo here](https://erc4337-candide.vercel.app/)
+A trim-down Next.js application that presents an updated ERC4337 example utilizing the Candide framework with SafeL2 version 1.4.1. This submodule makes dedicated use of the updated Candide framework. [Demo here](https://erc4337-candide.vercel.app/) [Repo here](https://github.com/tomw1808/erc4337-candide)
 
 ### /smart-contracts
-The smart contracts that underpin the demo applications are composed in Solidity (version 0.8.20) and utilize the Foundry framework for robust development, testing, and deployment. 
+The smart contracts that underpin the demo applications are composed in Solidity (version 0.8.20) and utilize the Foundry framework for robust development, testing, and deployment. It contains the Chat-Contract, as well as a simple Paymaster that basically pays for everything. [Repo here](https://github.com/tomw1808/erc4337-chatter-contracts)
 
 ## Configuration & Setup
 
